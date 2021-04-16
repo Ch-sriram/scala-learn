@@ -11,3 +11,4 @@
 
 1. Basics
    1. Hello World, Data Types (are Objects), Variables `var`, Values/Constants (`val`), `BigInt()`, `BigDecimal()`, Math Utils `scala.math._`, `if-else` conditions: [Commit Details](https://github.com/Ch-sriram/scala-learn/blob/595364ff5f3a4c91451ad00298df700572dce931/1-basics/HelloWorld.scala)
+   2. Functions Basics, Looping (`while`, `do while`, `for`) & Print Formatting (`print`, `println`, `printf`): [Commit Details]()
