@@ -4,8 +4,8 @@
 
 ## Resources
 
-- [Scala Documentation](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
-- [~ 1 hour Scala Tutorial by Derek Banas](https://www.youtube.com/watch?v=DzFt0YkZo8M&t=1s&ab_channel=DerekBanas)
+- **[Scala Documentation](https://docs.scala-lang.org/overviews/scala-book/introduction.html)**
+- [~ 1 hour Scala Tutorial by Derek Banas](https://www.youtube.com/watch?v=DzFt0YkZo8M&t=1s&ab_channel=DerekBanas) ~ Covers the overall understanding of the language
 
 ## Table of Contents
 
